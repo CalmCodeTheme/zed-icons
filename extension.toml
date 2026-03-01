@@ -1,0 +1,10 @@
+id = "calmcodeicons-theme"
+name = "CalmCode Icons"
+version = "0.1.0"
+schema_version = 1
+authors = ["Nik Neza <star.off.nik@gmail.com>"]
+description = "Minimal, muted icon theme for Zed — matches CalmCode color theme"
+repository = "https://github.com/NikNeza/calmcodeicons-zed"
+
+[theme]
+icon_theme = true

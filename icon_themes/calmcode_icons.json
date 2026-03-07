@@ -121,14 +121,17 @@
         "cpp": "cpp",
         "cc": "cpp",
         "cxx": "cpp",
-        "h": "cpp",
+        "h": "header",
         "hpp": "cpp",
         "c": "c",
         "hxx": "cpp",
         "vb": "visualbasic",
         "ps1": "powershell",
         "bat": "batch",
-        "cmd": "batch"
+        "cmd": "batch",
+        "txt": "text",
+        "gd": "godot",
+        "godot": "godot"
       },
 
       "file_icons": {
@@ -167,6 +170,7 @@
         "r": { "path": "./icons/r.svg" },
         "julia": { "path": "./icons/julia.svg" },
         "ocaml": { "path": "./icons/ocaml.svg" },
+        "header": { "path": "./icons/h.svg" },
         "fsharp": { "path": "./icons/fsharp.svg" },
         "csharp": { "path": "./icons/csharp.svg" },
         "cpp": { "path": "./icons/cpp.svg" },
@@ -198,7 +202,9 @@
         "folder-node-open": { "path": "./icons/folder-node-open.svg" },
         "chevron-right": { "path": "./icons/chevron-right.svg" },
         "chevron-down": { "path": "./icons/chevron-down.svg" },
-        "default": { "path": "./icons/file.svg" }
+        "default": { "path": "./icons/file.svg" },
+        "text": { "path": "./icons/txt.svg" },
+        "godot": { "path": "./icons/godot.svg" }
       }
     }
   ]

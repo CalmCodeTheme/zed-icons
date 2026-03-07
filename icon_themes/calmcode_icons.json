@@ -88,6 +88,8 @@
         "gif": "image",
         "webp": "image",
         "ico": "image",
+        "mp4": "video",
+        "mp3": "audio",
         "toml": "config",
         "yaml": "config",
         "yml": "config",
@@ -204,7 +206,9 @@
         "chevron-down": { "path": "./icons/chevron-down.svg" },
         "default": { "path": "./icons/file.svg" },
         "text": { "path": "./icons/txt.svg" },
-        "godot": { "path": "./icons/godot.svg" }
+        "godot": { "path": "./icons/godot.svg" },
+        "video": { "path": "./icons/video.svg" },
+        "audio": { "path": "./icons/audio.svg" }
       }
     }
   ]

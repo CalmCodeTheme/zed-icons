@@ -93,7 +93,7 @@ For the best experience, use both together:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/calmcodeicons-zed.git
+   git clone https://github.com/NikNeza/calmcodeicons-zed.git
    cd calmcodeicons-zed
    ```
 

@@ -12,28 +12,7 @@
         "expanded": "./icons/folder-open.svg"
       },
 
-      "named_directory_icons": {
-        "src": {
-          "collapsed": "./icons/folder-src.svg",
-          "expanded": "./icons/folder-src-open.svg"
-        },
-        "tests": {
-          "collapsed": "./icons/folder-test.svg",
-          "expanded": "./icons/folder-test-open.svg"
-        },
-        "assets": {
-          "collapsed": "./icons/folder-assets.svg",
-          "expanded": "./icons/folder-assets-open.svg"
-        },
-        ".git": {
-          "collapsed": "./icons/folder-git.svg",
-          "expanded": "./icons/folder-git-open.svg"
-        },
-        "node_modules": {
-          "collapsed": "./icons/folder-node.svg",
-          "expanded": "./icons/folder-node-open.svg"
-        }
-      },
+      "named_directory_icons": {},
 
       "chevron_icons": {
         "collapsed": "./icons/chevron-right.svg",
@@ -41,7 +20,7 @@
       },
 
       "file_stems": {
-        "Cargo.toml": "rust",
+        "Cargo.toml": "cargo",
         "package.json": "node",
         "tsconfig.json": "typescript",
         "jsconfig.json": "javascript",
@@ -63,6 +42,8 @@
       },
 
       "file_suffixes": {
+        "lock": "lock",
+        "properties": "props",
         "rs": "rust",
         "js": "javascript",
         "jsx": "react",
@@ -74,9 +55,10 @@
         "html": "html",
         "htm": "html",
         "css": "css",
-        "scss": "sass",
-        "sass": "sass",
-        "less": "less",
+        "scss": "css",
+        "sass": "css",
+        "less": "css",
+        "class": "class",
         "sh": "shell",
         "bash": "shell",
         "zsh": "shell",
@@ -90,10 +72,19 @@
         "ico": "image",
         "mp4": "video",
         "mp3": "audio",
+        "fbx": "3d",
+        "obj": "3d",
+        "stl": "3d",
+        "step": "3d",
+        "stp": "3d",
+        "gltf": "3d",
+        "glb": "3d",
+        "blend": "blender3d",
         "toml": "config",
         "yaml": "config",
         "yml": "config",
         "xml": "xml",
+        "xaml": "xml",
         "sql": "database",
         "db": "database",
         "graphql": "graphql",
@@ -104,7 +95,9 @@
         "rb": "ruby",
         "php": "php",
         "java": "java",
+        "jar": "jar",
         "kt": "kotlin",
+        "kts": "kotlin",
         "swift": "swift",
         "dart": "dart",
         "flutter": "flutter",
@@ -133,11 +126,14 @@
         "cmd": "batch",
         "txt": "text",
         "gd": "godot",
-        "godot": "godot"
+        "godot": "godot",
+        "wgsl": "wgsl",
+        "asm": "assembly"
       },
 
       "file_icons": {
         "rust": { "path": "./icons/rust.svg" },
+        "cargo": { "path": "./icons/cargo.svg" },
         "javascript": { "path": "./icons/javascript.svg" },
         "react": { "path": "./icons/react.svg" },
         "typescript": { "path": "./icons/typescript.svg" },
@@ -160,6 +156,7 @@
         "ruby": { "path": "./icons/ruby.svg" },
         "php": { "path": "./icons/php.svg" },
         "java": { "path": "./icons/java.svg" },
+        "jar": { "path": "./icons/jar.svg" },
         "kotlin": { "path": "./icons/kotlin.svg" },
         "swift": { "path": "./icons/swift.svg" },
         "dart": { "path": "./icons/dart.svg" },
@@ -208,7 +205,14 @@
         "text": { "path": "./icons/txt.svg" },
         "godot": { "path": "./icons/godot.svg" },
         "video": { "path": "./icons/video.svg" },
-        "audio": { "path": "./icons/audio.svg" }
+        "audio": { "path": "./icons/audio.svg" },
+        "wgsl": { "path": "./icons/wgsl.svg" },
+        "class": { "path": "./icons/class.svg" },
+        "props": { "path": "./icons/props.svg" },
+        "lock": { "path": "./icons/lock.svg" },
+        "3d": { "path": "./icons/3d.svg" },
+        "blender3d": { "path": "./icons/blender3d.svg" },
+        "assembly": { "path": "./icons/asm.svg" }
       }
     }
   ]

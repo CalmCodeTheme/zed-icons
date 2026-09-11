@@ -1,41 +1,10 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_8_2)">
-<g filter="url(#filter0_d_8_2)">
-<path d="M16 5.5C16 3.567 17.567 2 19.5 2V2C21.433 2 23 3.567 23 5.5V11.5C23 13.433 21.433 15 19.5 15V15C17.567 15 16 13.433 16 11.5V5.5Z" fill="#8771E6"/>
-<path d="M5 15C3.34315 15 2 13.6569 2 12V12C2 10.3431 3.34315 9 5 9L20.2 9C21.7464 9 23 10.2536 23 11.8V11.8C23 13.5673 21.5673 15 19.8 15L5 15Z" fill="#8771E6"/>
-<rect x="9" y="9" width="12" height="7" rx="3.5" transform="rotate(90 9 9)" fill="#8771E6"/>
-<path d="M20.0002 2C21.657 2.0001 23.0002 3.34321 23.0002 5C23.0002 6.65679 21.657 7.9999 20.0002 8H12.0002C10.3433 8 9.00018 6.65685 9.00018 5C9.00018 3.34315 10.3433 2 12.0002 2H20.0002ZM11.0002 4C10.4479 4 10.0002 4.44772 10.0002 5C10.0002 5.55228 10.4479 6 11.0002 6C11.5524 5.9999 12.0002 5.55222 12.0002 5C12.0002 4.44778 11.5524 4.0001 11.0002 4Z" fill="#8771E6"/>
-</g>
-<g filter="url(#filter1_d_8_2)">
-<path d="M9 19.5C9 17.567 10.567 16 12.5 16V16C14.433 16 16 17.567 16 19.5V26.5C16 28.433 14.433 30 12.5 30V30C10.567 30 9 28.433 9 26.5L9 19.5Z" fill="#FEC008"/>
-<path d="M20 24.0005C21.6569 24.0005 23 25.3436 23 27.0005C22.9997 28.6571 21.6567 30.0005 20 30.0005H12C10.3433 30.0005 9.00026 28.6571 9 27.0005C9 25.3436 10.3431 24.0005 12 24.0005H20ZM21 25.9995C20.4479 25.9995 20.0003 26.4475 20 26.9995C20 27.5518 20.4477 27.9995 21 27.9995C21.5521 27.9995 21.9997 27.5525 22 27.0005C22 26.4482 21.5523 25.9995 21 25.9995Z" fill="#FEC008"/>
-<path d="M30 16L30 19C30 20.6569 28.6569 22 27 22L11.3077 22C10.0332 22 9 20.9668 9 19.6923V19.6923C9 17.6531 10.6531 16 12.6923 16L30 16Z" fill="#FEC008"/>
-<rect x="30" y="9" width="13" height="7" rx="3.5" transform="rotate(90 30 9)" fill="#FEC008"/>
-</g>
-</g>
-<defs>
-<filter id="filter0_d_8_2" x="0" y="2" width="25.0002" height="23" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="2"/>
-<feGaussianBlur stdDeviation="1"/>
-<feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_8_2"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_8_2" result="shape"/>
-</filter>
-<filter id="filter1_d_8_2" x="7" y="9" width="25" height="25.0005" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="2"/>
-<feGaussianBlur stdDeviation="1"/>
-<feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_8_2"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_8_2" result="shape"/>
-</filter>
-<clipPath id="clip0_8_2">
-<rect width="32" height="32" fill="white"/>
-</clipPath>
-</defs>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M4 8L4 5L11 5C11 6.65685 9.65685 8 8 8L4 8Z" fill="#8771E6"/>
+<path d="M8 4.5H5V3C5 1.89543 5.89543 1 7 1H8V4.5ZM6.5 2.5C6.22386 2.5 6 2.72386 6 3C6 3.27614 6.22386 3.5 6.5 3.5C6.77614 3.5 7 3.27614 7 3C7 2.72386 6.77614 2.5 6.5 2.5Z" fill="#8771E6"/>
+<path d="M11 13C11 14.1046 10.1046 15 9 15H8V11.5H11V13ZM9.5 12.5C9.22386 12.5 9 12.7239 9 13C9 13.2761 9.22386 13.5 9.5 13.5C9.77614 13.5 10 13.2761 10 13C10 12.7239 9.77614 12.5 9.5 12.5Z" fill="#FEC008"/>
+<path d="M11 8L11 11L4 11C4 9.34315 5.34315 8 7 8L11 8Z" fill="#FEC008"/>
+<path d="M13 5C14.1046 5 15 5.89543 15 7L15 9C15 10.1046 14.1046 11 13 11L9 11L9 5L13 5Z" fill="#FEC008"/>
+<path d="M3 11C1.89543 11 1 10.1046 1 9L1 7C1 5.89543 1.89543 5 3 5L7 5L7 11L3 11Z" fill="#8771E6"/>
+<path d="M9 1C10.1046 1 11 1.89543 11 3L11 6C11 7.10457 10.1046 8 9 8L8 8L8 1L9 1Z" fill="#8771E6"/>
+<path d="M7 15C5.89543 15 5 14.1046 5 13L5 10C5 8.89543 5.89543 8 7 8L8 8L8 15L7 15Z" fill="#FEC008"/>
 </svg>

@@ -1,31 +1,11 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_8_94)">
-<rect x="1" y="1" width="30" height="30" rx="5" fill="url(#paint0_linear_8_94)"/>
-<g filter="url(#filter0_d_8_94)">
-<path d="M27 13.7679C28.3333 14.5378 28.3333 16.4623 27 17.2321L8.25 28.0574C6.91666 28.8272 5.25 27.8649 5.25 26.3253L5.25 4.67468C5.25 3.13508 6.91667 2.17283 8.25 2.94263L27 13.7679Z" fill="url(#paint1_linear_8_94)"/>
-</g>
-</g>
-<defs>
-<filter id="filter0_d_8_94" x="3.25" y="2.6717" width="26.75" height="29.6566" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="2"/>
-<feGaussianBlur stdDeviation="1"/>
-<feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_8_94"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_8_94" result="shape"/>
-</filter>
-<linearGradient id="paint0_linear_8_94" x1="16" y1="1" x2="16" y2="31" gradientUnits="userSpaceOnUse">
-<stop stop-color="#E4E4E4"/>
-<stop offset="1" stop-color="#B7B7B7"/>
-</linearGradient>
-<linearGradient id="paint1_linear_8_94" x1="13.5" y1="-1" x2="13.5" y2="32" gradientUnits="userSpaceOnUse">
-<stop stop-color="#EE4040"/>
-<stop offset="1" stop-color="#882525"/>
-</linearGradient>
-<clipPath id="clip0_8_94">
-<rect width="32" height="32" fill="white"/>
-</clipPath>
-</defs>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="3" width="14" height="10" rx="2" fill="#404040"/>
+<path d="M10.3164 8.10352C11.0583 8.47071 11.0583 9.52929 10.3164 9.89648L6.69336 11.6895C6.02884 12.018 5.25014 11.5343 5.25 10.793L5.25 7.20703C5.25014 6.46568 6.02883 5.98196 6.69336 6.31055L10.3164 8.10352Z" fill="#EE4040" stroke="#D9D9D9"/>
+<rect x="3" y="3" width="1" height="2" fill="#D9D9D9"/>
+<path d="M2 5H1C1 4.26007 1.40267 3.61546 2 3.26953V5Z" fill="#D9D9D9"/>
+<rect x="5" y="3" width="1" height="2" fill="#D9D9D9"/>
+<rect x="7" y="3" width="1" height="2" fill="#D9D9D9"/>
+<rect x="9" y="3" width="1" height="2" fill="#D9D9D9"/>
+<rect x="11" y="3" width="1" height="2" fill="#D9D9D9"/>
+<path d="M13 3C13.3646 3 13.7056 3.09906 14 3.26953V5H13V3Z" fill="#D9D9D9"/>
 </svg>

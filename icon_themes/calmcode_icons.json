@@ -11,8 +11,24 @@
         "collapsed": "./icons/folder.svg",
         "expanded": "./icons/folder-open.svg"
       },
-
-      "named_directory_icons": {},
+      "named_directory_icons": {
+        ".git": {
+          "collapsed": "./icons/folder-git.svg",
+          "expanded": "./icons/folder-open-git.svg"
+        },
+        "src": {
+          "collapsed": "./icons/folder-src.svg",
+          "expanded": "./icons/folder-src-open.svg"
+        },
+        "components": {
+          "collapsed": "./icons/folder-components.svg",
+          "expanded": "./icons/folder-open-components.svg"
+        },
+        "node_modules": {
+          "collapsed": "./icons/folder-node.svg",
+          "expanded": "./icons/folder-open-node.svg"
+        }
+      },
 
       "chevron_icons": {
         "collapsed": "./icons/chevron-right.svg",
@@ -63,7 +79,7 @@
         "bash": "shell",
         "zsh": "shell",
         "fish": "shell",
-        "svg": "image",
+        "svg": "svg",
         "png": "image",
         "jpg": "image",
         "jpeg": "image",
@@ -127,8 +143,12 @@
         "txt": "text",
         "gd": "godot",
         "godot": "godot",
+        "tres": "godot",
+        "tscn": "tscn",
         "wgsl": "wgsl",
-        "asm": "assembly"
+        "asm": "assembly",
+        "ttf": "font",
+        ".gitattributes": "gitattributes"
       },
 
       "file_icons": {
@@ -166,6 +186,7 @@
         "haskell": { "path": "./icons/haskell.svg" },
         "clojure": { "path": "./icons/clojure.svg" },
         "lua": { "path": "./icons/lua.svg" },
+        "luau": { "path": "./icons/luau.svg" },
         "r": { "path": "./icons/r.svg" },
         "julia": { "path": "./icons/julia.svg" },
         "ocaml": { "path": "./icons/ocaml.svg" },
@@ -212,7 +233,11 @@
         "lock": { "path": "./icons/lock.svg" },
         "3d": { "path": "./icons/3d.svg" },
         "blender3d": { "path": "./icons/blender3d.svg" },
-        "assembly": { "path": "./icons/asm.svg" }
+        "assembly": { "path": "./icons/asm.svg" },
+        "tscn": { "path": "./icons/tscn.svg" },
+        "font": { "path": "./icons/font.svg" },
+        "svg": { "path": "./icons/svg.svg" },
+        "gitattributes": { "path": "./icons/gitattributes.svg" }
       }
     }
   ]

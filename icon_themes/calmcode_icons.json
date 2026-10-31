@@ -17,27 +17,71 @@
           "collapsed": "./assets/icons/folder-git.svg",
           "expanded": "./assets/icons/folder-open-git.svg"
         },
-        "src": {
-          "collapsed": "./assets/icons/folder.svg",
-          "expanded": "./assets/icons/folder-open.svg"
+        ".vscode": {
+          "collapsed": "./assets/icons/folder-vscode.svg",
+          "expanded": "./assets/icons/folder-open-vscode.svg"
         },
         "node_modules": {
           "collapsed": "./assets/icons/folder.svg",
           "expanded": "./assets/icons/folder-open.svg"
         },
         "test": {
-          "collapsed": "./assets/icons/folder.svg",
-          "expanded": "./assets/icons/folder-open.svg"
+          "collapsed": "./assets/icons/folder-tests.svg",
+          "expanded": "./assets/icons/folder-open-tests.svg"
         },
         "tests": {
-          "collapsed": "./assets/icons/folder.svg",
-          "expanded": "./assets/icons/folder-open.svg"
+          "collapsed": "./assets/icons/folder-tests.svg",
+          "expanded": "./assets/icons/folder-open-tests.svg"
         },
         "__tests__": {
-          "collapsed": "./assets/icons/folder.svg",
-          "expanded": "./assets/icons/folder-open.svg"
+          "collapsed": "./assets/icons/folder-tests.svg",
+          "expanded": "./assets/icons/folder-open-tests.svg"
+        },
+        "e2e": {
+          "collapsed": "./assets/icons/folder-tests.svg",
+          "expanded": "./assets/icons/folder-open-tests.svg"
+        },
+        "Test": {
+          "collapsed": "./assets/icons/folder-tests.svg",
+          "expanded": "./assets/icons/folder-open-tests.svg"
+        },
+        "Tests": {
+          "collapsed": "./assets/icons/folder-tests.svg",
+          "expanded": "./assets/icons/folder-open-tests.svg"
+        },
+        "src": {
+          "collapsed": "./assets/icons/folder-source.svg",
+          "expanded": "./assets/icons/folder-open-source.svg"
+        },
+        "Src": {
+          "collapsed": "./assets/icons/folder-source.svg",
+          "expanded": "./assets/icons/folder-open-source.svg"
+        },
+        "source": {
+          "collapsed": "./assets/icons/folder-source.svg",
+          "expanded": "./assets/icons/folder-open-source.svg"
+        },
+        "Source": {
+          "collapsed": "./assets/icons/folder-source.svg",
+          "expanded": "./assets/icons/folder-open-source.svg"
+        },
+        "lib": {
+          "collapsed": "./assets/icons/folder-source.svg",
+          "expanded": "./assets/icons/folder-open-source.svg"
+        },
+        "Lib": {
+          "collapsed": "./assets/icons/folder-source.svg",
+          "expanded": "./assets/icons/folder-open-source.svg"
+        },
+        "icons": {
+          "collapsed": "./assets/icons/folder-assets.svg",
+          "expanded": "./assets/icons/folder-open-assets.svg"
         },
         "assets": {
+          "collapsed": "./assets/icons/folder-assets.svg",
+          "expanded": "./assets/icons/folder-open-assets.svg"
+        },
+        "Assets": {
           "collapsed": "./assets/icons/folder-assets.svg",
           "expanded": "./assets/icons/folder-open-assets.svg"
         },
@@ -45,13 +89,125 @@
           "collapsed": "./assets/icons/folder-assets.svg",
           "expanded": "./assets/icons/folder-open-assets.svg"
         },
+        "Public": {
+          "collapsed": "./assets/icons/folder-assets.svg",
+          "expanded": "./assets/icons/folder-open-assets.svg"
+        },
+        "static": {
+          "collapsed": "./assets/icons/folder-assets.svg",
+          "expanded": "./assets/icons/folder-open-assets.svg"
+        },
         "dist": {
+          "collapsed": "./assets/icons/folder-assets.svg",
+          "expanded": "./assets/icons/folder-open-assets.svg"
+        },
+        "Dist": {
           "collapsed": "./assets/icons/folder-assets.svg",
           "expanded": "./assets/icons/folder-open-assets.svg"
         },
         "build": {
           "collapsed": "./assets/icons/folder-assets.svg",
           "expanded": "./assets/icons/folder-open-assets.svg"
+        },
+        "Build": {
+          "collapsed": "./assets/icons/folder-assets.svg",
+          "expanded": "./assets/icons/folder-open-assets.svg"
+        },
+        "out": {
+          "collapsed": "./assets/icons/folder-assets.svg",
+          "expanded": "./assets/icons/folder-open-assets.svg"
+        },
+        "components": {
+          "collapsed": "./assets/icons/folder-components.svg",
+          "expanded": "./assets/icons/folder-open-components.svg"
+        },
+        "Components": {
+          "collapsed": "./assets/icons/folder-components.svg",
+          "expanded": "./assets/icons/folder-open-components.svg"
+        },
+        "ui": {
+          "collapsed": "./assets/icons/folder-components.svg",
+          "expanded": "./assets/icons/folder-open-components.svg"
+        },
+        "UI": {
+          "collapsed": "./assets/icons/folder-components.svg",
+          "expanded": "./assets/icons/folder-open-components.svg"
+        },
+        "widgets": {
+          "collapsed": "./assets/icons/folder-components.svg",
+          "expanded": "./assets/icons/folder-open-components.svg"
+        },
+        "crates": {
+          "collapsed": "./assets/icons/folder-crates.svg",
+          "expanded": "./assets/icons/folder-open-crates.svg"
+        },
+        "Crates": {
+          "collapsed": "./assets/icons/folder-crates.svg",
+          "expanded": "./assets/icons/folder-open-crates.svg"
+        },
+        "packages": {
+          "collapsed": "./assets/icons/folder-crates.svg",
+          "expanded": "./assets/icons/folder-open-crates.svg"
+        },
+        "Packages": {
+          "collapsed": "./assets/icons/folder-crates.svg",
+          "expanded": "./assets/icons/folder-open-crates.svg"
+        },
+        "docs": {
+          "collapsed": "./assets/icons/folder-docs.svg",
+          "expanded": "./assets/icons/folder-open-docs.svg"
+        },
+        "Docs": {
+          "collapsed": "./assets/icons/folder-docs.svg",
+          "expanded": "./assets/icons/folder-open-docs.svg"
+        },
+        "documentation": {
+          "collapsed": "./assets/icons/folder-docs.svg",
+          "expanded": "./assets/icons/folder-open-docs.svg"
+        },
+        "doc": {
+          "collapsed": "./assets/icons/folder-docs.svg",
+          "expanded": "./assets/icons/folder-open-docs.svg"
+        },
+        "wiki": {
+          "collapsed": "./assets/icons/folder-docs.svg",
+          "expanded": "./assets/icons/folder-open-docs.svg"
+        },
+        "logs": {
+          "collapsed": "./assets/icons/folder-logs.svg",
+          "expanded": "./assets/icons/folder-open-logs.svg"
+        },
+        "Logs": {
+          "collapsed": "./assets/icons/folder-logs.svg",
+          "expanded": "./assets/icons/folder-open-logs.svg"
+        },
+        "log": {
+          "collapsed": "./assets/icons/folder-logs.svg",
+          "expanded": "./assets/icons/folder-open-logs.svg"
+        },
+        "scripts": {
+          "collapsed": "./assets/icons/folder-scripts.svg",
+          "expanded": "./assets/icons/folder-open-scripts.svg"
+        },
+        "Scripts": {
+          "collapsed": "./assets/icons/folder-scripts.svg",
+          "expanded": "./assets/icons/folder-open-scripts.svg"
+        },
+        "script": {
+          "collapsed": "./assets/icons/folder-scripts.svg",
+          "expanded": "./assets/icons/folder-open-scripts.svg"
+        },
+        "shaders": {
+          "collapsed": "./assets/icons/folder-shaders.svg",
+          "expanded": "./assets/icons/folder-open-shaders.svg"
+        },
+        "Shaders": {
+          "collapsed": "./assets/icons/folder-shaders.svg",
+          "expanded": "./assets/icons/folder-open-shaders.svg"
+        },
+        "shader": {
+          "collapsed": "./assets/icons/folder-shaders.svg",
+          "expanded": "./assets/icons/folder-open-shaders.svg"
         }
       },
 
@@ -128,6 +284,10 @@
         "biome.json": "config",
         "biome.jsonc": "config",
         ".editorconfig": "config",
+        ".npmrc": "config",
+        ".yarnrc": "config",
+        ".gitconfig": "config",
+        ".gitconfig.local": "config",
         "jest.config.js": "javascript",
         "jest.config.ts": "typescript",
         "vitest.config.ts": "vite",
@@ -214,6 +374,12 @@
         "yml": "config",
         "ini": "config",
         "cfg": "config",
+        "conf": "config",
+        "config": "config",
+        "cnf": "config",
+        "babelrc": "config",
+        "eslintrc": "config",
+        "prettierrc": "config",
         "env": "config",
         "xml": "xml",
         "xaml": "xml",
@@ -358,6 +524,24 @@
         "folder-open-assets": { "path": "./assets/icons/folder-open-assets.svg" },
         "folder-git": { "path": "./assets/icons/folder-git.svg" },
         "folder-open-git": { "path": "./assets/icons/folder-open-git.svg" },
+        "folder-components": { "path": "./assets/icons/folder-components.svg" },
+        "folder-open-components": { "path": "./assets/icons/folder-open-components.svg" },
+        "folder-crates": { "path": "./assets/icons/folder-crates.svg" },
+        "folder-open-crates": { "path": "./assets/icons/folder-open-crates.svg" },
+        "folder-docs": { "path": "./assets/icons/folder-docs.svg" },
+        "folder-open-docs": { "path": "./assets/icons/folder-open-docs.svg" },
+        "folder-logs": { "path": "./assets/icons/folder-logs.svg" },
+        "folder-open-logs": { "path": "./assets/icons/folder-open-logs.svg" },
+        "folder-scripts": { "path": "./assets/icons/folder-scripts.svg" },
+        "folder-open-scripts": { "path": "./assets/icons/folder-open-scripts.svg" },
+        "folder-shaders": { "path": "./assets/icons/folder-shaders.svg" },
+        "folder-open-shaders": { "path": "./assets/icons/folder-open-shaders.svg" },
+        "folder-source": { "path": "./assets/icons/folder-source.svg" },
+        "folder-open-source": { "path": "./assets/icons/folder-open-source.svg" },
+        "folder-tests": { "path": "./assets/icons/folder-tests.svg" },
+        "folder-open-tests": { "path": "./assets/icons/folder-open-tests.svg" },
+        "folder-vscode": { "path": "./assets/icons/folder-vscode.svg" },
+        "folder-open-vscode": { "path": "./assets/icons/folder-open-vscode.svg" },
         "chevron-right": { "path": "./assets/icons/chevron-right.svg" },
         "chevron-down": { "path": "./assets/icons/chevron-down.svg" },
         "default": { "path": "./assets/icons/file.svg" },
